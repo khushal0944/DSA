@@ -1,3 +1,4 @@
+            // Using If-Else
 // #include<iostream>
 // using namespace std;
 
@@ -37,6 +38,7 @@
 //     return 0;
 // }
 
+            // Using Switch Case
 
 #include<iostream>
 using namespace std;
