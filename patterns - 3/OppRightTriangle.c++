@@ -1,3 +1,12 @@
+/*
+        Question
+    *****
+     ****
+      ***
+       **
+        *
+*/
+
 #include <iostream>
 using namespace std;
 
