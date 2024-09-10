@@ -18,5 +18,3 @@ int main() {
     cout << nthFibonacciTerm(n);
     return 0;
 }
-
-
